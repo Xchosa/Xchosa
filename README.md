@@ -1,12 +1,14 @@
-## Hi there 👋
-I am Paul Overbeck
+## Hi there 👋 I am Paul Overbeck
 
 - 🔭 I’m currently working on 
-    Archie - a Paperless-Ngx inspireed Documentmanagement System , with NestJs, Angular, PostgreSQL, Redis and Minio.
+    Archie - a Paperless-Ngx inspireed Documentmanagement System , with NestJs, Angular, PostgreSQL, Redis and MinIO.
     The Final Goal is an AI assisted Documentmanagement System self hosted for Clubs or Families.
 
 - 💬 I am currently learning ..
     NestJs and Angular
+
+- 💬 Ask me about ...
+    42 Heilbronn 
 
 - 📫 How to reach me: ...
     https://www.linkedin.com/in/paul-overbeck-0b9718145/
