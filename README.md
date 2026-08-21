@@ -5,13 +5,16 @@
     The Final Goal is an AI assisted Documentmanagement System self hosted for Clubs or Families.
 
 - 💬 I am currently learning ..
-    NestJs and Angular
+    SQL, NestJs and Angular
 
 - 💬 Ask me about ...
-    42 Heilbronn 
+    42 Heilbronn
 
 - 📫 How to reach me: ...
-    https://www.linkedin.com/in/paul-overbeck-0b9718145/
+  https://www.linkedin.com/in/paul-overbeck-42HN/
+
+  ⚡ Tools I use frequently:
+      Joplin, Anki-Flashcards, Obsedian, DBeaver, Bruno
   
 
 <!--
