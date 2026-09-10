@@ -14,7 +14,7 @@
   https://www.linkedin.com/in/paul-overbeck-42HN/
 
 - ⚡ Tools I use frequently:
-  Joplin, Anki-Flashcards, Obsedian, DBeaver, Bruno
+  Joplin, Langfuse, DBeaver
   
 
 <!--
