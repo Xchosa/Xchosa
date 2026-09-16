@@ -11,7 +11,8 @@
     42 Heilbronn
 
 - 📫 How to reach me: ...
-  https://www.linkedin.com/in/paul-overbeck-42HN/
+         <a href="https://www.linkedin.com/in/paul-overbeck-42HN/"><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/2bffbff3-f416-47a9-9c88-9b1528dbb19d" />
+
 
 - ⚡ Tools I use frequently:
   Joplin, Langfuse, DBeaver
